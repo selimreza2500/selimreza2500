@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @selimreza2500
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-selimreza2500/selimreza2500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is Selim Reza.
+Passionate about learning new things & utilize my knowledge in the field of computer science and software development for the best performance and creativity of complex systems.
+Proficient in multiple programming languages, including Java, Python, C, C++,along with the ability to solve computational problems.
+Also experienced in data structures, algorithms. Interested to research in the area of ML & AI.
